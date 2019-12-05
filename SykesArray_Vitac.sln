@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SykesArray_Vitac", "SykesArray_Vitac\SykesArray_Vitac.csproj", "{C931E45A-11E0-4316-9681-CC6EB1BD1498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{9AE420D3-693A-445F-BD46-920854C3E86C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{C0242D9E-C1B2-45D9-8A11-01F11619D31B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{259EC7E8-DF44-41BB-9F2F-79E8197C7DB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModel", "ViewModel\ViewModel.csproj", "{302B03FF-9A89-4704-9F5E-D09E7950DC7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C931E45A-11E0-4316-9681-CC6EB1BD1498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C931E45A-11E0-4316-9681-CC6EB1BD1498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C931E45A-11E0-4316-9681-CC6EB1BD1498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C931E45A-11E0-4316-9681-CC6EB1BD1498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AE420D3-693A-445F-BD46-920854C3E86C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE420D3-693A-445F-BD46-920854C3E86C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE420D3-693A-445F-BD46-920854C3E86C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE420D3-693A-445F-BD46-920854C3E86C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0242D9E-C1B2-45D9-8A11-01F11619D31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0242D9E-C1B2-45D9-8A11-01F11619D31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0242D9E-C1B2-45D9-8A11-01F11619D31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0242D9E-C1B2-45D9-8A11-01F11619D31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{259EC7E8-DF44-41BB-9F2F-79E8197C7DB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259EC7E8-DF44-41BB-9F2F-79E8197C7DB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259EC7E8-DF44-41BB-9F2F-79E8197C7DB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259EC7E8-DF44-41BB-9F2F-79E8197C7DB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302B03FF-9A89-4704-9F5E-D09E7950DC7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302B03FF-9A89-4704-9F5E-D09E7950DC7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302B03FF-9A89-4704-9F5E-D09E7950DC7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302B03FF-9A89-4704-9F5E-D09E7950DC7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E443DCC-0C9D-44FF-B67B-64976E918251}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/sykes-innovation
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BLL\\BLL.csproj
+		SccProjectName1 = BLL
+		SccLocalPath1 = BLL
+		SccProjectUniqueName2 = DAL\\DAL.csproj
+		SccProjectName2 = DAL
+		SccLocalPath2 = DAL
+		SccProjectUniqueName3 = Model\\Model.csproj
+		SccProjectName3 = Model
+		SccLocalPath3 = Model
+		SccProjectUniqueName4 = SykesArray_Vitac\\SykesArray_Vitac.csproj
+		SccProjectName4 = SykesArray_Vitac
+		SccLocalPath4 = SykesArray_Vitac
+		SccProjectUniqueName5 = ViewModel\\ViewModel.csproj
+		SccProjectName5 = ViewModel
+		SccLocalPath5 = ViewModel
+	EndGlobalSection
+EndGlobal
